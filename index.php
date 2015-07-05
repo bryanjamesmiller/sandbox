@@ -28,7 +28,7 @@ for($k = 0; $k < sizeof($four_items_within_each_index[$k]); $k++) {
 
 //preg_split uses a REGULAR EXPRESSION to split a string.  Gives me more flexibility and power!
 
-//This outputs the course title and professor(s) correctly. 
+//This outputs the course title and professor(s) correctly.
 $pieces = preg_split('/<td class="views-field views-field-field-course-display-name" >/', $string);
 $newstring = array();
 $j = 0;
@@ -39,7 +39,7 @@ for($i = 0; $i < sizeof($pieces); $i++){
 
 for($k = 0; $k < sizeof($newstring); $k++) {
     fwrite($myfile, $newstring[$k]);
-    echo $newstring[$k] . "<br>";
+    echo strip_tags($newstring[$k]) . "<br>";
 }
 
 
