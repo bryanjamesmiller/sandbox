@@ -397,7 +397,7 @@ This is array index: 0 and here is the result:
   </thead>
 <tbody>
       <tr class="odd views-row-first">
-              This is array index: 1 and here is the result:  class="views-field views-field-field-course-display-name" >
+              This is array index: 1 and here is the result: 
           <a href="http://www.extension.harvard.edu/academics/courses/introduction-african-studies/24412" title="Introduction to African Studies - 24412">AAAS E-11 Introduction to African Studies</a>
 <div class="view view-secondary-instructors-per-course-search-results- view-id-secondary_instructors_per_course_search_results_ view-display-id-default view-dom-id-59dc82b7b344b9947645ed1a857a1b82">
         
@@ -420,17 +420,17 @@ This is array index: 0 and here is the result:
   
 </div>
         </td>
-              This is array index: 2 and here is the result:  class="views-field views-field-field-term-display-name" >
+              <td class="views-field views-field-field-term-display-name" >
           Spring Term 2016        </td>
-              This is array index: 3 and here is the result:  class="views-field views-field-field-meeting-times" >
+              <td class="views-field views-field-field-meeting-times" >
                   </td>
-              This is array index: 4 and here is the result:  class="views-field views-field-field-course-format" >
+              <td class="views-field views-field-field-course-format" >
           Online only        </td>
-              This is array index: 5 and here is the result:  class="views-field views-field-field-crn" >
+              <td class="views-field views-field-field-crn" >
           24412        </td>
           </tr>
       <tr class="even">
-              This is array index: 6 and here is the result:  class="views-field views-field-field-course-display-name" >
+              This is array index: 2 and here is the result: 
           <a href="http://www.extension.harvard.edu/academics/courses/chocolate-culture-politics-food/24223" title="Chocolate, Culture, and the Politics of Food - 24223">AAAS E-119 Chocolate, Culture, and the Politics of Food</a>
 <div class="view view-secondary-instructors-per-course-search-results- view-id-secondary_instructors_per_course_search_results_ view-display-id-default view-dom-id-fef0bf13258af5ecff6938c5a5b10733">
         
@@ -453,17 +453,17 @@ This is array index: 0 and here is the result:
   
 </div>
         </td>
-              This is array index: 7 and here is the result:  class="views-field views-field-field-term-display-name" >
+              <td class="views-field views-field-field-term-display-name" >
           Spring Term 2016        </td>
-              This is array index: 8 and here is the result:  class="views-field views-field-field-meeting-times" >
+              <td class="views-field views-field-field-meeting-times" >
           Wednesdays, 5:30-7:30 pm        </td>
-              This is array index: 9 and here is the result:  class="views-field views-field-field-course-format" >
+              <td class="views-field views-field-field-course-format" >
           Online with the option to attend class on campus        </td>
-              This is array index: 10 and here is the result:  class="views-field views-field-field-crn" >
+              <td class="views-field views-field-field-crn" >
           24223        </td>
           </tr>
       <tr class="odd">
-              This is array index: 11 and here is the result:  class="views-field views-field-field-course-display-name" >
+              This is array index: 3 and here is the result: 
           <a href="http://www.extension.harvard.edu/academics/courses/pyramid-schemes-archaeological-history-ancient-egypt/24179" title="Pyramid Schemes: The Archaeological History of Ancient Egypt - 24179">ANTH E-1000 Pyramid Schemes: The Archaeological History of Ancient Egypt</a>
 <div class="view view-secondary-instructors-per-course-search-results- view-id-secondary_instructors_per_course_search_results_ view-display-id-default view-dom-id-33560b4f531634bbeec876ce8c180dfe">
         
@@ -486,17 +486,17 @@ This is array index: 0 and here is the result:
   
 </div>
         </td>
-              This is array index: 12 and here is the result:  class="views-field views-field-field-term-display-name" >
+              <td class="views-field views-field-field-term-display-name" >
           Spring Term 2016        </td>
-              This is array index: 13 and here is the result:  class="views-field views-field-field-meeting-times" >
+              <td class="views-field views-field-field-meeting-times" >
                   </td>
-              This is array index: 14 and here is the result:  class="views-field views-field-field-course-format" >
+              <td class="views-field views-field-field-course-format" >
           Online only        </td>
-              This is array index: 15 and here is the result:  class="views-field views-field-field-crn" >
+              <td class="views-field views-field-field-crn" >
           24179        </td>
           </tr>
       <tr class="even">
-              This is array index: 16 and here is the result:  class="views-field views-field-field-course-display-name" >
+              This is array index: 4 and here is the result: 
           <a href="http://www.extension.harvard.edu/academics/courses/moctezumas-mexico-then-now/14065" title="Moctezuma's Mexico: Then and Now - 14065">ANTH E-1050 Moctezuma's Mexico: Then and Now</a>
 <div class="view view-secondary-instructors-per-course-search-results- view-id-secondary_instructors_per_course_search_results_ view-display-id-default view-dom-id-14a4e3172b3045ad8ac157215bbb10c1">
         
@@ -526,17 +526,17 @@ This is array index: 0 and here is the result:
   
 </div>
         </td>
-              This is array index: 17 and here is the result:  class="views-field views-field-field-term-display-name" >
+              <td class="views-field views-field-field-term-display-name" >
           Fall Term 2015        </td>
-              This is array index: 18 and here is the result:  class="views-field views-field-field-meeting-times" >
+              <td class="views-field views-field-field-meeting-times" >
                   </td>
-              This is array index: 19 and here is the result:  class="views-field views-field-field-course-format" >
+              <td class="views-field views-field-field-course-format" >
           Online only        </td>
-              This is array index: 20 and here is the result:  class="views-field views-field-field-crn" >
+              <td class="views-field views-field-field-crn" >
           14065        </td>
           </tr>
       <tr class="odd">
-              This is array index: 21 and here is the result:  class="views-field views-field-field-course-display-name" >
+              This is array index: 5 and here is the result: 
           <a href="http://www.extension.harvard.edu/academics/courses/maya-glyphs/14743" title="Maya Glyphs - 14743">ANTH E-1168 Maya Glyphs</a>
 <div class="view view-secondary-instructors-per-course-search-results- view-id-secondary_instructors_per_course_search_results_ view-display-id-default view-dom-id-ac4c94411182b33294c8b67a5509b66a">
         
@@ -559,17 +559,17 @@ This is array index: 0 and here is the result:
   
 </div>
         </td>
-              This is array index: 22 and here is the result:  class="views-field views-field-field-term-display-name" >
+              <td class="views-field views-field-field-term-display-name" >
           Fall Term 2015        </td>
-              This is array index: 23 and here is the result:  class="views-field views-field-field-meeting-times" >
+              <td class="views-field views-field-field-meeting-times" >
           Thursdays, 5:30-7:30 pm        </td>
-              This is array index: 24 and here is the result:  class="views-field views-field-field-course-format" >
+              <td class="views-field views-field-field-course-format" >
           Online with the option to attend class on campus        </td>
-              This is array index: 25 and here is the result:  class="views-field views-field-field-crn" >
+              <td class="views-field views-field-field-crn" >
           14743        </td>
           </tr>
       <tr class="even">
-              This is array index: 26 and here is the result:  class="views-field views-field-field-course-display-name" >
+              This is array index: 6 and here is the result: 
           <a href="http://www.extension.harvard.edu/academics/courses/anthropology-sex-gender/24507" title="The Anthropology of Sex and Gender - 24507">ANTH E-1500 The Anthropology of Sex and Gender</a>
 <div class="view view-secondary-instructors-per-course-search-results- view-id-secondary_instructors_per_course_search_results_ view-display-id-default view-dom-id-2b71cafe12c2968038feb021aa15d0cf">
         
@@ -592,17 +592,17 @@ This is array index: 0 and here is the result:
   
 </div>
         </td>
-              This is array index: 27 and here is the result:  class="views-field views-field-field-term-display-name" >
+              <td class="views-field views-field-field-term-display-name" >
           Spring Term 2016        </td>
-              This is array index: 28 and here is the result:  class="views-field views-field-field-meeting-times" >
+              <td class="views-field views-field-field-meeting-times" >
           Wednesdays, 5:30-7:30 pm        </td>
-              This is array index: 29 and here is the result:  class="views-field views-field-field-course-format" >
+              <td class="views-field views-field-field-course-format" >
           On campus only        </td>
-              This is array index: 30 and here is the result:  class="views-field views-field-field-crn" >
+              <td class="views-field views-field-field-crn" >
           24507        </td>
           </tr>
       <tr class="odd">
-              This is array index: 31 and here is the result:  class="views-field views-field-field-course-display-name" >
+              This is array index: 7 and here is the result: 
           <a href="http://www.extension.harvard.edu/academics/courses/anthropology-arabia/24536" title="The Anthropology of Arabia - 24536">ANTH E-1615 The Anthropology of Arabia</a>
 <div class="view view-secondary-instructors-per-course-search-results- view-id-secondary_instructors_per_course_search_results_ view-display-id-default view-dom-id-17b7c677c69ff51e3bd38b0dd9364d40">
         
@@ -625,17 +625,17 @@ This is array index: 0 and here is the result:
   
 </div>
         </td>
-              This is array index: 32 and here is the result:  class="views-field views-field-field-term-display-name" >
+              <td class="views-field views-field-field-term-display-name" >
           Spring Term 2016        </td>
-              This is array index: 33 and here is the result:  class="views-field views-field-field-meeting-times" >
+              <td class="views-field views-field-field-meeting-times" >
                   </td>
-              This is array index: 34 and here is the result:  class="views-field views-field-field-course-format" >
+              <td class="views-field views-field-field-course-format" >
           Online only        </td>
-              This is array index: 35 and here is the result:  class="views-field views-field-field-crn" >
+              <td class="views-field views-field-field-crn" >
           24536        </td>
           </tr>
       <tr class="even">
-              This is array index: 36 and here is the result:  class="views-field views-field-field-course-display-name" >
+              This is array index: 8 and here is the result: 
           <a href="http://www.extension.harvard.edu/academics/courses/anthropology-human-rights/23622" title="Anthropology and Human Rights - 23622">ANTH E-1660 Anthropology and Human Rights</a>
 <div class="view view-secondary-instructors-per-course-search-results- view-id-secondary_instructors_per_course_search_results_ view-display-id-default view-dom-id-1dfcfcd19abb19f6fcbc7fdf48efc43e">
         
@@ -658,17 +658,17 @@ This is array index: 0 and here is the result:
   
 </div>
         </td>
-              This is array index: 37 and here is the result:  class="views-field views-field-field-term-display-name" >
+              <td class="views-field views-field-field-term-display-name" >
           Spring Term 2016        </td>
-              This is array index: 38 and here is the result:  class="views-field views-field-field-meeting-times" >
+              <td class="views-field views-field-field-meeting-times" >
           Wednesdays, 7:40-9:40 pm        </td>
-              This is array index: 39 and here is the result:  class="views-field views-field-field-course-format" >
+              <td class="views-field views-field-field-course-format" >
           On campus only        </td>
-              This is array index: 40 and here is the result:  class="views-field views-field-field-crn" >
+              <td class="views-field views-field-field-crn" >
           23622        </td>
           </tr>
       <tr class="odd">
-              This is array index: 41 and here is the result:  class="views-field views-field-field-course-display-name" >
+              This is array index: 9 and here is the result: 
           <a href="http://www.extension.harvard.edu/academics/courses/race-americas/24416" title="Race in the Americas - 24416">ANTH E-1700 Race in the Americas</a>
 <div class="view view-secondary-instructors-per-course-search-results- view-id-secondary_instructors_per_course_search_results_ view-display-id-default view-dom-id-2e4904044494c133817fdd45f9dcf79c">
         
@@ -698,17 +698,17 @@ This is array index: 0 and here is the result:
   
 </div>
         </td>
-              This is array index: 42 and here is the result:  class="views-field views-field-field-term-display-name" >
+              <td class="views-field views-field-field-term-display-name" >
           January session        </td>
-              This is array index: 43 and here is the result:  class="views-field views-field-field-meeting-times" >
+              <td class="views-field views-field-field-meeting-times" >
           Mondays-Thursdays, 5:30-8:30 pm        </td>
-              This is array index: 44 and here is the result:  class="views-field views-field-field-course-format" >
+              <td class="views-field views-field-field-course-format" >
           On campus only        </td>
-              This is array index: 45 and here is the result:  class="views-field views-field-field-crn" >
+              <td class="views-field views-field-field-crn" >
           24416        </td>
           </tr>
       <tr class="even">
-              This is array index: 46 and here is the result:  class="views-field views-field-field-course-display-name" >
+              This is array index: 10 and here is the result: 
           <a href="http://www.extension.harvard.edu/academics/courses/anthropological-film-practice-method/14721" title="Anthropological Film: Practice and Method - 14721">ANTH E-1727 Anthropological Film: Practice and Method</a>
 <div class="view view-secondary-instructors-per-course-search-results- view-id-secondary_instructors_per_course_search_results_ view-display-id-default view-dom-id-2102e3861e524f1c4e7ec674e45041b2">
         
@@ -731,17 +731,17 @@ This is array index: 0 and here is the result:
   
 </div>
         </td>
-              This is array index: 47 and here is the result:  class="views-field views-field-field-term-display-name" >
+              <td class="views-field views-field-field-term-display-name" >
           Fall Term 2015        </td>
-              This is array index: 48 and here is the result:  class="views-field views-field-field-meeting-times" >
+              <td class="views-field views-field-field-meeting-times" >
           Saturdays, 9 am-noon        </td>
-              This is array index: 49 and here is the result:  class="views-field views-field-field-course-format" >
+              <td class="views-field views-field-field-course-format" >
           On campus only        </td>
-              This is array index: 50 and here is the result:  class="views-field views-field-field-crn" >
+              <td class="views-field views-field-field-crn" >
           14721        </td>
           </tr>
       <tr class="odd">
-              This is array index: 51 and here is the result:  class="views-field views-field-field-course-display-name" >
+              This is array index: 11 and here is the result: 
           <a href="http://www.extension.harvard.edu/academics/courses/monte-carlo-methods-inference-data-analysis/24104" title="Monte Carlo Methods for Inference and Data Analysis - 24104">APMA E-207 Monte Carlo Methods for Inference and Data Analysis</a>
 <div class="view view-secondary-instructors-per-course-search-results- view-id-secondary_instructors_per_course_search_results_ view-display-id-default view-dom-id-f4a642f06b48321c9165ff533035be3f">
         
@@ -771,17 +771,17 @@ This is array index: 0 and here is the result:
   
 </div>
         </td>
-              This is array index: 52 and here is the result:  class="views-field views-field-field-term-display-name" >
+              <td class="views-field views-field-field-term-display-name" >
           Spring Term 2016        </td>
-              This is array index: 53 and here is the result:  class="views-field views-field-field-meeting-times" >
+              <td class="views-field views-field-field-meeting-times" >
                   </td>
-              This is array index: 54 and here is the result:  class="views-field views-field-field-course-format" >
+              <td class="views-field views-field-field-course-format" >
           Online only        </td>
-              This is array index: 55 and here is the result:  class="views-field views-field-field-crn" >
+              <td class="views-field views-field-field-crn" >
           24104        </td>
           </tr>
       <tr class="even">
-              This is array index: 56 and here is the result:  class="views-field views-field-field-course-display-name" >
+              This is array index: 12 and here is the result: 
           <a href="http://www.extension.harvard.edu/academics/courses/intensive-elementary-modern-standard-arabic-i/13547" title="Intensive Elementary Modern Standard Arabic I - 13547">ARAB E-1 Intensive Elementary Modern Standard Arabic I</a>
 <div class="view view-secondary-instructors-per-course-search-results- view-id-secondary_instructors_per_course_search_results_ view-display-id-default view-dom-id-e7148dc3b4f7d19a8ba028090c46c1bb">
         
@@ -804,17 +804,17 @@ This is array index: 0 and here is the result:
   
 </div>
         </td>
-              This is array index: 57 and here is the result:  class="views-field views-field-field-term-display-name" >
+              <td class="views-field views-field-field-term-display-name" >
           Fall Term 2015        </td>
-              This is array index: 58 and here is the result:  class="views-field views-field-field-meeting-times" >
+              <td class="views-field views-field-field-meeting-times" >
           Mondays, Wednesdays, 5:30-7:30 pm        </td>
-              This is array index: 59 and here is the result:  class="views-field views-field-field-course-format" >
+              <td class="views-field views-field-field-course-format" >
           On campus only        </td>
-              This is array index: 60 and here is the result:  class="views-field views-field-field-crn" >
+              <td class="views-field views-field-field-crn" >
           13547        </td>
           </tr>
       <tr class="odd">
-              This is array index: 61 and here is the result:  class="views-field views-field-field-course-display-name" >
+              This is array index: 13 and here is the result: 
           <a href="http://www.extension.harvard.edu/academics/courses/intensive-elementary-modern-standard-arabic-ii/23418" title="Intensive Elementary Modern Standard Arabic II - 23418">ARAB E-2 Intensive Elementary Modern Standard Arabic II</a>
 <div class="view view-secondary-instructors-per-course-search-results- view-id-secondary_instructors_per_course_search_results_ view-display-id-default view-dom-id-b7d5cb87b0c19dae7610765d0186a086">
         
@@ -837,17 +837,17 @@ This is array index: 0 and here is the result:
   
 </div>
         </td>
-              This is array index: 62 and here is the result:  class="views-field views-field-field-term-display-name" >
+              <td class="views-field views-field-field-term-display-name" >
           Spring Term 2016        </td>
-              This is array index: 63 and here is the result:  class="views-field views-field-field-meeting-times" >
+              <td class="views-field views-field-field-meeting-times" >
           Mondays, Wednesdays, 5:30-7:30 pm        </td>
-              This is array index: 64 and here is the result:  class="views-field views-field-field-course-format" >
+              <td class="views-field views-field-field-course-format" >
           On campus only        </td>
-              This is array index: 65 and here is the result:  class="views-field views-field-field-crn" >
+              <td class="views-field views-field-field-crn" >
           23418        </td>
           </tr>
       <tr class="even">
-              This is array index: 66 and here is the result:  class="views-field views-field-field-course-display-name" >
+              This is array index: 14 and here is the result: 
           <a href="http://www.extension.harvard.edu/academics/courses/cosmic-evolution-origins-matter-life/21171" title="Cosmic Evolution: The Origins of Matter and Life - 21171">ASTR E-8 Cosmic Evolution: The Origins of Matter and Life</a>
 <div class="view view-secondary-instructors-per-course-search-results- view-id-secondary_instructors_per_course_search_results_ view-display-id-default view-dom-id-21b54b0fc5044c52ed5b20622b1760f7">
         
@@ -870,17 +870,17 @@ This is array index: 0 and here is the result:
   
 </div>
         </td>
-              This is array index: 67 and here is the result:  class="views-field views-field-field-term-display-name" >
+              <td class="views-field views-field-field-term-display-name" >
           Spring Term 2016        </td>
-              This is array index: 68 and here is the result:  class="views-field views-field-field-meeting-times" >
+              <td class="views-field views-field-field-meeting-times" >
           Wednesdays, 7:45-9:45 pm        </td>
-              This is array index: 69 and here is the result:  class="views-field views-field-field-course-format" >
+              <td class="views-field views-field-field-course-format" >
           On campus only        </td>
-              This is array index: 70 and here is the result:  class="views-field views-field-field-crn" >
+              <td class="views-field views-field-field-crn" >
           21171        </td>
           </tr>
       <tr class="odd">
-              This is array index: 71 and here is the result:  class="views-field views-field-field-course-display-name" >
+              This is array index: 15 and here is the result: 
           <a href="http://www.extension.harvard.edu/academics/courses/stars-stellar-systems/14717" title="Stars and Stellar Systems - 14717">ASTR E-40 Stars and Stellar Systems</a>
 <div class="view view-secondary-instructors-per-course-search-results- view-id-secondary_instructors_per_course_search_results_ view-display-id-default view-dom-id-14870cffdf37319b20543650cdb3237a">
         
@@ -903,17 +903,17 @@ This is array index: 0 and here is the result:
   
 </div>
         </td>
-              This is array index: 72 and here is the result:  class="views-field views-field-field-term-display-name" >
+              <td class="views-field views-field-field-term-display-name" >
           Fall Term 2015        </td>
-              This is array index: 73 and here is the result:  class="views-field views-field-field-meeting-times" >
+              <td class="views-field views-field-field-meeting-times" >
           Wednesdays, 7:45-9:45 pm        </td>
-              This is array index: 74 and here is the result:  class="views-field views-field-field-course-format" >
+              <td class="views-field views-field-field-course-format" >
           On campus only        </td>
-              This is array index: 75 and here is the result:  class="views-field views-field-field-crn" >
+              <td class="views-field views-field-field-crn" >
           14717        </td>
           </tr>
       <tr class="even">
-              This is array index: 76 and here is the result:  class="views-field views-field-field-course-display-name" >
+              This is array index: 16 and here is the result: 
           <a href="http://www.extension.harvard.edu/academics/courses/introduction-molecular-cellular-biology/13096" title="Introduction to Molecular and Cellular Biology - 13096">BIOS E-1A Introduction to Molecular and Cellular Biology</a>
 <div class="view view-secondary-instructors-per-course-search-results- view-id-secondary_instructors_per_course_search_results_ view-display-id-default view-dom-id-e7379d0fee40cda223f157c9d8b5c18c">
         
@@ -950,17 +950,17 @@ This is array index: 0 and here is the result:
   
 </div>
         </td>
-              This is array index: 77 and here is the result:  class="views-field views-field-field-term-display-name" >
+              <td class="views-field views-field-field-term-display-name" >
           Fall Term 2015        </td>
-              This is array index: 78 and here is the result:  class="views-field views-field-field-meeting-times" >
+              <td class="views-field views-field-field-meeting-times" >
           Mondays, Wednesdays, 7:40-9:40 pm        </td>
-              This is array index: 79 and here is the result:  class="views-field views-field-field-course-format" >
+              <td class="views-field views-field-field-course-format" >
           On campus only        </td>
-              This is array index: 80 and here is the result:  class="views-field views-field-field-crn" >
+              <td class="views-field views-field-field-crn" >
           13096        </td>
           </tr>
       <tr class="odd">
-              This is array index: 81 and here is the result:  class="views-field views-field-field-course-display-name" >
+              This is array index: 17 and here is the result: 
           <a href="http://www.extension.harvard.edu/academics/courses/introduction-organismic-evolutionary-biology/22957" title="Introduction to Organismic and Evolutionary Biology - 22957">BIOS E-1B Introduction to Organismic and Evolutionary Biology</a>
 <div class="view view-secondary-instructors-per-course-search-results- view-id-secondary_instructors_per_course_search_results_ view-display-id-default view-dom-id-d8112325186df660f051d6e1eea786f9">
         
@@ -997,17 +997,17 @@ This is array index: 0 and here is the result:
   
 </div>
         </td>
-              This is array index: 82 and here is the result:  class="views-field views-field-field-term-display-name" >
+              <td class="views-field views-field-field-term-display-name" >
           Spring Term 2016        </td>
-              This is array index: 83 and here is the result:  class="views-field views-field-field-meeting-times" >
+              <td class="views-field views-field-field-meeting-times" >
           Mondays, Wednesdays, 7:40-9:40 pm        </td>
-              This is array index: 84 and here is the result:  class="views-field views-field-field-course-format" >
+              <td class="views-field views-field-field-course-format" >
           On campus only        </td>
-              This is array index: 85 and here is the result:  class="views-field views-field-field-crn" >
+              <td class="views-field views-field-field-crn" >
           22957        </td>
           </tr>
       <tr class="even">
-              This is array index: 86 and here is the result:  class="views-field views-field-field-course-display-name" >
+              This is array index: 18 and here is the result: 
           <a href="http://www.extension.harvard.edu/academics/courses/introduction-biochemistry/14563" title="Introduction to Biochemistry - 14563">BIOS E-10 Introduction to Biochemistry</a>
 <div class="view view-secondary-instructors-per-course-search-results- view-id-secondary_instructors_per_course_search_results_ view-display-id-default view-dom-id-a2f4bff46d569dda7ce602f88b731e90">
         
@@ -1030,17 +1030,17 @@ This is array index: 0 and here is the result:
   
 </div>
         </td>
-              This is array index: 87 and here is the result:  class="views-field views-field-field-term-display-name" >
+              <td class="views-field views-field-field-term-display-name" >
           Fall Term 2015        </td>
-              This is array index: 88 and here is the result:  class="views-field views-field-field-meeting-times" >
+              <td class="views-field views-field-field-meeting-times" >
           Fridays, 5:30-7:30 pm        </td>
-              This is array index: 89 and here is the result:  class="views-field views-field-field-course-format" >
+              <td class="views-field views-field-field-course-format" >
           On campus only        </td>
-              This is array index: 90 and here is the result:  class="views-field views-field-field-crn" >
+              <td class="views-field views-field-field-crn" >
           14563        </td>
           </tr>
       <tr class="odd">
-              This is array index: 91 and here is the result:  class="views-field views-field-field-course-display-name" >
+              This is array index: 19 and here is the result: 
           <a href="http://www.extension.harvard.edu/academics/courses/introduction-biochemistry/24316" title="Introduction to Biochemistry - 24316">BIOS E-10 Introduction to Biochemistry</a>
 <div class="view view-secondary-instructors-per-course-search-results- view-id-secondary_instructors_per_course_search_results_ view-display-id-default view-dom-id-8a676abb39032fcf9dc06b75008b465a">
         
@@ -1063,17 +1063,17 @@ This is array index: 0 and here is the result:
   
 </div>
         </td>
-              This is array index: 92 and here is the result:  class="views-field views-field-field-term-display-name" >
+              <td class="views-field views-field-field-term-display-name" >
           Spring Term 2016        </td>
-              This is array index: 93 and here is the result:  class="views-field views-field-field-meeting-times" >
+              <td class="views-field views-field-field-meeting-times" >
                   </td>
-              This is array index: 94 and here is the result:  class="views-field views-field-field-course-format" >
+              <td class="views-field views-field-field-course-format" >
           Online only        </td>
-              This is array index: 95 and here is the result:  class="views-field views-field-field-crn" >
+              <td class="views-field views-field-field-crn" >
           24316        </td>
           </tr>
       <tr class="even">
-              This is array index: 96 and here is the result:  class="views-field views-field-field-course-display-name" >
+              This is array index: 20 and here is the result: 
           <a href="http://www.extension.harvard.edu/academics/courses/principles-techniques-molecular-biology/22965" title="Principles and Techniques of Molecular Biology - 22965">BIOS E-12 Principles and Techniques of Molecular Biology</a>
 <div class="view view-secondary-instructors-per-course-search-results- view-id-secondary_instructors_per_course_search_results_ view-display-id-default view-dom-id-14e9e4692a57adc5c15300007cfa4265">
         
@@ -1096,17 +1096,17 @@ This is array index: 0 and here is the result:
   
 </div>
         </td>
-              This is array index: 97 and here is the result:  class="views-field views-field-field-term-display-name" >
+              <td class="views-field views-field-field-term-display-name" >
           Spring Term 2016        </td>
-              This is array index: 98 and here is the result:  class="views-field views-field-field-meeting-times" >
+              <td class="views-field views-field-field-meeting-times" >
           Tuesdays, 5:30-7:30 pm        </td>
-              This is array index: 99 and here is the result:  class="views-field views-field-field-course-format" >
+              <td class="views-field views-field-field-course-format" >
           On campus only        </td>
-              This is array index: 100 and here is the result:  class="views-field views-field-field-crn" >
+              <td class="views-field views-field-field-crn" >
           22965        </td>
           </tr>
       <tr class="odd">
-              This is array index: 101 and here is the result:  class="views-field views-field-field-course-display-name" >
+              This is array index: 21 and here is the result: 
           <a href="http://www.extension.harvard.edu/academics/courses/principles-genetics/22962" title="Principles of Genetics - 22962">BIOS E-14 Principles of Genetics</a>
 <div class="view view-secondary-instructors-per-course-search-results- view-id-secondary_instructors_per_course_search_results_ view-display-id-default view-dom-id-20beedf388e787916dd7a6f046dd515a">
         
@@ -1129,17 +1129,17 @@ This is array index: 0 and here is the result:
   
 </div>
         </td>
-              This is array index: 102 and here is the result:  class="views-field views-field-field-term-display-name" >
+              <td class="views-field views-field-field-term-display-name" >
           Spring Term 2016        </td>
-              This is array index: 103 and here is the result:  class="views-field views-field-field-meeting-times" >
+              <td class="views-field views-field-field-meeting-times" >
           Mondays, 5:30-7:30 pm        </td>
-              This is array index: 104 and here is the result:  class="views-field views-field-field-course-format" >
+              <td class="views-field views-field-field-course-format" >
           On campus only        </td>
-              This is array index: 105 and here is the result:  class="views-field views-field-field-crn" >
+              <td class="views-field views-field-field-crn" >
           22962        </td>
           </tr>
       <tr class="even">
-              This is array index: 106 and here is the result:  class="views-field views-field-field-course-display-name" >
+              This is array index: 22 and here is the result: 
           <a href="http://www.extension.harvard.edu/academics/courses/cell-biology/22958" title="Cell Biology - 22958">BIOS E-16 Cell Biology</a>
 <div class="view view-secondary-instructors-per-course-search-results- view-id-secondary_instructors_per_course_search_results_ view-display-id-default view-dom-id-0e0f70a1dde535ca0a0e0a6d493ff655">
         
@@ -1169,17 +1169,17 @@ This is array index: 0 and here is the result:
   
 </div>
         </td>
-              This is array index: 107 and here is the result:  class="views-field views-field-field-term-display-name" >
+              <td class="views-field views-field-field-term-display-name" >
           Spring Term 2016        </td>
-              This is array index: 108 and here is the result:  class="views-field views-field-field-meeting-times" >
+              <td class="views-field views-field-field-meeting-times" >
           Wednesdays, 5:30-7:30 pm        </td>
-              This is array index: 109 and here is the result:  class="views-field views-field-field-course-format" >
+              <td class="views-field views-field-field-course-format" >
           On campus only        </td>
-              This is array index: 110 and here is the result:  class="views-field views-field-field-crn" >
+              <td class="views-field views-field-field-crn" >
           22958        </td>
           </tr>
       <tr class="odd">
-              This is array index: 111 and here is the result:  class="views-field views-field-field-course-display-name" >
+              This is array index: 23 and here is the result: 
           <a href="http://www.extension.harvard.edu/academics/courses/evolution/14330" title="Evolution - 14330">BIOS E-18 Evolution</a>
 <div class="view view-secondary-instructors-per-course-search-results- view-id-secondary_instructors_per_course_search_results_ view-display-id-default view-dom-id-4e6dacc26332bb88aff73fd43f73b6e1">
         
@@ -1202,17 +1202,17 @@ This is array index: 0 and here is the result:
   
 </div>
         </td>
-              This is array index: 112 and here is the result:  class="views-field views-field-field-term-display-name" >
+              <td class="views-field views-field-field-term-display-name" >
           Fall Term 2015        </td>
-              This is array index: 113 and here is the result:  class="views-field views-field-field-meeting-times" >
+              <td class="views-field views-field-field-meeting-times" >
           Mondays, 7:40-9:40 pm        </td>
-              This is array index: 114 and here is the result:  class="views-field views-field-field-course-format" >
+              <td class="views-field views-field-field-course-format" >
           Online with the option to attend class on campus        </td>
-              This is array index: 115 and here is the result:  class="views-field views-field-field-crn" >
+              <td class="views-field views-field-field-crn" >
           14330        </td>
           </tr>
       <tr class="even">
-              This is array index: 116 and here is the result:  class="views-field views-field-field-course-display-name" >
+              This is array index: 24 and here is the result: 
           <a href="http://www.extension.harvard.edu/academics/courses/epigenetics/14571" title="Epigenetics - 14571">BIOS E-30 Epigenetics</a>
 <div class="view view-secondary-instructors-per-course-search-results- view-id-secondary_instructors_per_course_search_results_ view-display-id-default view-dom-id-eb0b43e46315b1af614a80096871ee5e">
         
@@ -1235,17 +1235,17 @@ This is array index: 0 and here is the result:
   
 </div>
         </td>
-              This is array index: 117 and here is the result:  class="views-field views-field-field-term-display-name" >
+              <td class="views-field views-field-field-term-display-name" >
           Fall Term 2015        </td>
-              This is array index: 118 and here is the result:  class="views-field views-field-field-meeting-times" >
+              <td class="views-field views-field-field-meeting-times" >
           Tuesdays, 5:30-7:30 pm        </td>
-              This is array index: 119 and here is the result:  class="views-field views-field-field-course-format" >
+              <td class="views-field views-field-field-course-format" >
           On campus only        </td>
-              This is array index: 120 and here is the result:  class="views-field views-field-field-crn" >
+              <td class="views-field views-field-field-crn" >
           14571        </td>
           </tr>
       <tr class="odd">
-              This is array index: 121 and here is the result:  class="views-field views-field-field-course-display-name" >
+              This is array index: 25 and here is the result: 
           <a href="http://www.extension.harvard.edu/academics/courses/rna-world/14600" title="The RNA World - 14600">BIOS E-35 The RNA World</a>
 <div class="view view-secondary-instructors-per-course-search-results- view-id-secondary_instructors_per_course_search_results_ view-display-id-default view-dom-id-6431bc8deea3f1b2c1bb1a36f49be584">
         
@@ -1268,17 +1268,17 @@ This is array index: 0 and here is the result:
   
 </div>
         </td>
-              This is array index: 122 and here is the result:  class="views-field views-field-field-term-display-name" >
+              <td class="views-field views-field-field-term-display-name" >
           Fall Term 2015        </td>
-              This is array index: 123 and here is the result:  class="views-field views-field-field-meeting-times" >
+              <td class="views-field views-field-field-meeting-times" >
           Tuesdays, 5:30-7:30 pm        </td>
-              This is array index: 124 and here is the result:  class="views-field views-field-field-course-format" >
+              <td class="views-field views-field-field-course-format" >
           Online with the option to attend class on campus        </td>
-              This is array index: 125 and here is the result:  class="views-field views-field-field-crn" >
+              <td class="views-field views-field-field-crn" >
           14600        </td>
           </tr>
       <tr class="even">
-              This is array index: 126 and here is the result:  class="views-field views-field-field-course-display-name" >
+              This is array index: 26 and here is the result: 
           <a href="http://www.extension.harvard.edu/academics/courses/introduction-proteomics/13099" title="Introduction to Proteomics - 13099">BIOS E-40 Introduction to Proteomics</a>
 <div class="view view-secondary-instructors-per-course-search-results- view-id-secondary_instructors_per_course_search_results_ view-display-id-default view-dom-id-dfafbf898f127f516b8fbe65cbecc873">
         
@@ -1301,17 +1301,17 @@ This is array index: 0 and here is the result:
   
 </div>
         </td>
-              This is array index: 127 and here is the result:  class="views-field views-field-field-term-display-name" >
+              <td class="views-field views-field-field-term-display-name" >
           Fall Term 2015        </td>
-              This is array index: 128 and here is the result:  class="views-field views-field-field-meeting-times" >
+              <td class="views-field views-field-field-meeting-times" >
           Tuesdays, 7:40-9:40 pm        </td>
-              This is array index: 129 and here is the result:  class="views-field views-field-field-course-format" >
+              <td class="views-field views-field-field-course-format" >
           Online with the option to attend class on campus        </td>
-              This is array index: 130 and here is the result:  class="views-field views-field-field-crn" >
+              <td class="views-field views-field-field-crn" >
           13099        </td>
           </tr>
       <tr class="odd">
-              This is array index: 131 and here is the result:  class="views-field views-field-field-course-display-name" >
+              This is array index: 27 and here is the result: 
           <a href="http://www.extension.harvard.edu/academics/courses/introduction-genomics/23605" title="Introduction to Genomics - 23605">BIOS E-45 Introduction to Genomics</a>
 <div class="view view-secondary-instructors-per-course-search-results- view-id-secondary_instructors_per_course_search_results_ view-display-id-default view-dom-id-7a80df7ae46f7f3b75b67aa331cb1954">
         
@@ -1334,17 +1334,17 @@ This is array index: 0 and here is the result:
   
 </div>
         </td>
-              This is array index: 132 and here is the result:  class="views-field views-field-field-term-display-name" >
+              <td class="views-field views-field-field-term-display-name" >
           Spring Term 2016        </td>
-              This is array index: 133 and here is the result:  class="views-field views-field-field-meeting-times" >
+              <td class="views-field views-field-field-meeting-times" >
           Mondays, 5:30-7:30 pm        </td>
-              This is array index: 134 and here is the result:  class="views-field views-field-field-course-format" >
+              <td class="views-field views-field-field-course-format" >
           Online with the option to attend class on campus        </td>
-              This is array index: 135 and here is the result:  class="views-field views-field-field-crn" >
+              <td class="views-field views-field-field-crn" >
           23605        </td>
           </tr>
       <tr class="even">
-              This is array index: 136 and here is the result:  class="views-field views-field-field-course-display-name" >
+              This is array index: 28 and here is the result: 
           <a href="http://www.extension.harvard.edu/academics/courses/neurobiology/13097" title="Neurobiology - 13097">BIOS E-50 Neurobiology</a>
 <div class="view view-secondary-instructors-per-course-search-results- view-id-secondary_instructors_per_course_search_results_ view-display-id-default view-dom-id-163f300456751e2de92bcc28e74a9272">
         
@@ -1367,17 +1367,17 @@ This is array index: 0 and here is the result:
   
 </div>
         </td>
-              This is array index: 137 and here is the result:  class="views-field views-field-field-term-display-name" >
+              <td class="views-field views-field-field-term-display-name" >
           Fall Term 2015        </td>
-              This is array index: 138 and here is the result:  class="views-field views-field-field-meeting-times" >
+              <td class="views-field views-field-field-meeting-times" >
           Wednesdays, 5:30-7:30 pm        </td>
-              This is array index: 139 and here is the result:  class="views-field views-field-field-course-format" >
+              <td class="views-field views-field-field-course-format" >
           On campus only        </td>
-              This is array index: 140 and here is the result:  class="views-field views-field-field-crn" >
+              <td class="views-field views-field-field-crn" >
           13097        </td>
           </tr>
       <tr class="odd">
-              This is array index: 141 and here is the result:  class="views-field views-field-field-course-display-name" >
+              This is array index: 29 and here is the result: 
           <a href="http://www.extension.harvard.edu/academics/courses/developmental-biology/22959" title="Developmental Biology - 22959">BIOS E-55 Developmental Biology</a>
 <div class="view view-secondary-instructors-per-course-search-results- view-id-secondary_instructors_per_course_search_results_ view-display-id-default view-dom-id-1ab89c6709ac1bf312f9aa85bd18e045">
         
@@ -1400,17 +1400,17 @@ This is array index: 0 and here is the result:
   
 </div>
         </td>
-              This is array index: 142 and here is the result:  class="views-field views-field-field-term-display-name" >
+              <td class="views-field views-field-field-term-display-name" >
           Spring Term 2016        </td>
-              This is array index: 143 and here is the result:  class="views-field views-field-field-meeting-times" >
+              <td class="views-field views-field-field-meeting-times" >
           Tuesdays, 7:40-9:40 pm        </td>
-              This is array index: 144 and here is the result:  class="views-field views-field-field-course-format" >
+              <td class="views-field views-field-field-course-format" >
           On campus only        </td>
-              This is array index: 145 and here is the result:  class="views-field views-field-field-crn" >
+              <td class="views-field views-field-field-crn" >
           22959        </td>
           </tr>
       <tr class="even">
-              This is array index: 146 and here is the result:  class="views-field views-field-field-course-display-name" >
+              This is array index: 30 and here is the result: 
           <a href="http://www.extension.harvard.edu/academics/courses/immunology/23186" title="Immunology - 23186">BIOS E-60 Immunology</a>
 <div class="view view-secondary-instructors-per-course-search-results- view-id-secondary_instructors_per_course_search_results_ view-display-id-default view-dom-id-d737df5c4b278326c1be81aea341a453">
         
@@ -1433,17 +1433,17 @@ This is array index: 0 and here is the result:
   
 </div>
         </td>
-              This is array index: 147 and here is the result:  class="views-field views-field-field-term-display-name" >
+              <td class="views-field views-field-field-term-display-name" >
           Spring Term 2016        </td>
-              This is array index: 148 and here is the result:  class="views-field views-field-field-meeting-times" >
+              <td class="views-field views-field-field-meeting-times" >
           Thursdays, 5:30-7:30 pm        </td>
-              This is array index: 149 and here is the result:  class="views-field views-field-field-course-format" >
+              <td class="views-field views-field-field-course-format" >
           Online with the option to attend class on campus        </td>
-              This is array index: 150 and here is the result:  class="views-field views-field-field-crn" >
+              <td class="views-field views-field-field-crn" >
           23186        </td>
           </tr>
       <tr class="odd">
-              This is array index: 151 and here is the result:  class="views-field views-field-field-course-display-name" >
+              This is array index: 31 and here is the result: 
           <a href="http://www.extension.harvard.edu/academics/courses/human-anatomy-physiology-i/13387" title="Human Anatomy and Physiology I - 13387">BIOS E-65C Human Anatomy and Physiology I</a>
 <div class="view view-secondary-instructors-per-course-search-results- view-id-secondary_instructors_per_course_search_results_ view-display-id-default view-dom-id-2da47154286c75a8dd9f99aa226ab635">
         
@@ -1466,17 +1466,17 @@ This is array index: 0 and here is the result:
   
 </div>
         </td>
-              This is array index: 152 and here is the result:  class="views-field views-field-field-term-display-name" >
+              <td class="views-field views-field-field-term-display-name" >
           Fall Term 2015        </td>
-              This is array index: 153 and here is the result:  class="views-field views-field-field-meeting-times" >
+              <td class="views-field views-field-field-meeting-times" >
           Mondays, 5:30-7:30 pm        </td>
-              This is array index: 154 and here is the result:  class="views-field views-field-field-course-format" >
+              <td class="views-field views-field-field-course-format" >
           On campus only        </td>
-              This is array index: 155 and here is the result:  class="views-field views-field-field-crn" >
+              <td class="views-field views-field-field-crn" >
           13387        </td>
           </tr>
       <tr class="even">
-              This is array index: 156 and here is the result:  class="views-field views-field-field-course-display-name" >
+              This is array index: 32 and here is the result: 
           <a href="http://www.extension.harvard.edu/academics/courses/human-anatomy-physiology-ii/23232" title="Human Anatomy and Physiology II - 23232">BIOS E-65D Human Anatomy and Physiology II</a>
 <div class="view view-secondary-instructors-per-course-search-results- view-id-secondary_instructors_per_course_search_results_ view-display-id-default view-dom-id-88a1d8bbafe4d38fec15336be66eba06">
         
@@ -1499,17 +1499,17 @@ This is array index: 0 and here is the result:
   
 </div>
         </td>
-              This is array index: 157 and here is the result:  class="views-field views-field-field-term-display-name" >
+              <td class="views-field views-field-field-term-display-name" >
           Spring Term 2016        </td>
-              This is array index: 158 and here is the result:  class="views-field views-field-field-meeting-times" >
+              <td class="views-field views-field-field-meeting-times" >
           Mondays, 5:30-7:30 pm        </td>
-              This is array index: 159 and here is the result:  class="views-field views-field-field-course-format" >
+              <td class="views-field views-field-field-course-format" >
           On campus only        </td>
-              This is array index: 160 and here is the result:  class="views-field views-field-field-crn" >
+              <td class="views-field views-field-field-crn" >
           23232        </td>
           </tr>
       <tr class="odd">
-              This is array index: 161 and here is the result:  class="views-field views-field-field-course-display-name" >
+              This is array index: 33 and here is the result: 
           <a href="http://www.extension.harvard.edu/academics/courses/introduction-epidemiology/13179" title="Introduction to Epidemiology - 13179">BIOS E-70 Introduction to Epidemiology</a>
 <div class="view view-secondary-instructors-per-course-search-results- view-id-secondary_instructors_per_course_search_results_ view-display-id-default view-dom-id-a489296c729d6873aa78607512d19d00">
         
@@ -1532,17 +1532,17 @@ This is array index: 0 and here is the result:
   
 </div>
         </td>
-              This is array index: 162 and here is the result:  class="views-field views-field-field-term-display-name" >
+              <td class="views-field views-field-field-term-display-name" >
           Fall Term 2015        </td>
-              This is array index: 163 and here is the result:  class="views-field views-field-field-meeting-times" >
+              <td class="views-field views-field-field-meeting-times" >
           Mondays, 7:40-9:40 pm        </td>
-              This is array index: 164 and here is the result:  class="views-field views-field-field-course-format" >
+              <td class="views-field views-field-field-course-format" >
           On campus only        </td>
-              This is array index: 165 and here is the result:  class="views-field views-field-field-crn" >
+              <td class="views-field views-field-field-crn" >
           13179        </td>
           </tr>
       <tr class="even">
-              This is array index: 166 and here is the result:  class="views-field views-field-field-course-display-name" >
+              This is array index: 34 and here is the result: 
           <a href="http://www.extension.harvard.edu/academics/courses/newsworthy-topics-life-sciences/23074" title="Newsworthy Topics in the Life Sciences - 23074">BIOS E-102 Newsworthy Topics in the Life Sciences</a>
 <div class="view view-secondary-instructors-per-course-search-results- view-id-secondary_instructors_per_course_search_results_ view-display-id-default view-dom-id-f895b0761af4599ed709aea3b2d6ed06">
         
@@ -1565,17 +1565,17 @@ This is array index: 0 and here is the result:
   
 </div>
         </td>
-              This is array index: 167 and here is the result:  class="views-field views-field-field-term-display-name" >
+              <td class="views-field views-field-field-term-display-name" >
           Spring Term 2016        </td>
-              This is array index: 168 and here is the result:  class="views-field views-field-field-meeting-times" >
+              <td class="views-field views-field-field-meeting-times" >
           Tuesdays, 7:40-9:40 pm        </td>
-              This is array index: 169 and here is the result:  class="views-field views-field-field-course-format" >
+              <td class="views-field views-field-field-course-format" >
           Online with the option to attend class on campus        </td>
-              This is array index: 170 and here is the result:  class="views-field views-field-field-crn" >
+              <td class="views-field views-field-field-crn" >
           23074        </td>
           </tr>
       <tr class="odd">
-              This is array index: 171 and here is the result:  class="views-field views-field-field-course-display-name" >
+              This is array index: 35 and here is the result: 
           <a href="http://www.extension.harvard.edu/academics/courses/principles-marine-biology/14458" title="Principles of Marine Biology - 14458">BIOS E-116 Principles of Marine Biology</a>
 <div class="view view-secondary-instructors-per-course-search-results- view-id-secondary_instructors_per_course_search_results_ view-display-id-default view-dom-id-0db4d9098e85638df5b8bd0eef399570">
         
@@ -1598,17 +1598,17 @@ This is array index: 0 and here is the result:
   
 </div>
         </td>
-              This is array index: 172 and here is the result:  class="views-field views-field-field-term-display-name" >
+              <td class="views-field views-field-field-term-display-name" >
           Fall Term 2015        </td>
-              This is array index: 173 and here is the result:  class="views-field views-field-field-meeting-times" >
+              <td class="views-field views-field-field-meeting-times" >
           Thursdays, 7:40-9:40 pm        </td>
-              This is array index: 174 and here is the result:  class="views-field views-field-field-course-format" >
+              <td class="views-field views-field-field-course-format" >
           On campus only        </td>
-              This is array index: 175 and here is the result:  class="views-field views-field-field-crn" >
+              <td class="views-field views-field-field-crn" >
           14458        </td>
           </tr>
       <tr class="even">
-              This is array index: 176 and here is the result:  class="views-field views-field-field-course-display-name" >
+              This is array index: 36 and here is the result: 
           <a href="http://www.extension.harvard.edu/academics/courses/deep-sea-biology/24171" title="Deep Sea Biology - 24171">BIOS E-118 Deep Sea Biology</a>
 <div class="view view-secondary-instructors-per-course-search-results- view-id-secondary_instructors_per_course_search_results_ view-display-id-default view-dom-id-c1db460c1c193b9ec4b6e982d26db617">
         
@@ -1631,17 +1631,17 @@ This is array index: 0 and here is the result:
   
 </div>
         </td>
-              This is array index: 177 and here is the result:  class="views-field views-field-field-term-display-name" >
+              <td class="views-field views-field-field-term-display-name" >
           Spring Term 2016        </td>
-              This is array index: 178 and here is the result:  class="views-field views-field-field-meeting-times" >
+              <td class="views-field views-field-field-meeting-times" >
           Mondays, 5:30-7:30 pm        </td>
-              This is array index: 179 and here is the result:  class="views-field views-field-field-course-format" >
+              <td class="views-field views-field-field-course-format" >
           On campus only        </td>
-              This is array index: 180 and here is the result:  class="views-field views-field-field-crn" >
+              <td class="views-field views-field-field-crn" >
           24171        </td>
           </tr>
       <tr class="odd">
-              This is array index: 181 and here is the result:  class="views-field views-field-field-course-display-name" >
+              This is array index: 37 and here is the result: 
           <a href="http://www.extension.harvard.edu/academics/courses/reproductive-biology-physiological-evolutionary-behavior-aspects/24413" title="Reproductive Biology: Physiological, Evolutionary, and Behavior Aspects - 24413">BIOS E-123 Reproductive Biology: Physiological, Evolutionary, and Behavior Aspects</a>
 <div class="view view-secondary-instructors-per-course-search-results- view-id-secondary_instructors_per_course_search_results_ view-display-id-default view-dom-id-6c2765d3a2e2e102944f462d72534fa3">
         
@@ -1664,17 +1664,17 @@ This is array index: 0 and here is the result:
   
 </div>
         </td>
-              This is array index: 182 and here is the result:  class="views-field views-field-field-term-display-name" >
+              <td class="views-field views-field-field-term-display-name" >
           Spring Term 2016        </td>
-              This is array index: 183 and here is the result:  class="views-field views-field-field-meeting-times" >
+              <td class="views-field views-field-field-meeting-times" >
           Wednesdays, 7:40-9:40 pm        </td>
-              This is array index: 184 and here is the result:  class="views-field views-field-field-course-format" >
+              <td class="views-field views-field-field-course-format" >
           Online with the option to attend class on campus        </td>
-              This is array index: 185 and here is the result:  class="views-field views-field-field-crn" >
+              <td class="views-field views-field-field-crn" >
           24413        </td>
           </tr>
       <tr class="even">
-              This is array index: 186 and here is the result:  class="views-field views-field-field-course-display-name" >
+              This is array index: 38 and here is the result: 
           <a href="http://www.extension.harvard.edu/academics/courses/stem-cell-regenerative-biology/14001" title="Stem Cell and Regenerative Biology - 14001">BIOS E-129 Stem Cell and Regenerative Biology</a>
 <div class="view view-secondary-instructors-per-course-search-results- view-id-secondary_instructors_per_course_search_results_ view-display-id-default view-dom-id-d52c2491b147ec26b8d0681c873a99b8">
         
@@ -1697,17 +1697,17 @@ This is array index: 0 and here is the result:
   
 </div>
         </td>
-              This is array index: 187 and here is the result:  class="views-field views-field-field-term-display-name" >
+              <td class="views-field views-field-field-term-display-name" >
           Fall Term 2015        </td>
-              This is array index: 188 and here is the result:  class="views-field views-field-field-meeting-times" >
+              <td class="views-field views-field-field-meeting-times" >
                   </td>
-              This is array index: 189 and here is the result:  class="views-field views-field-field-course-format" >
+              <td class="views-field views-field-field-course-format" >
           Online only        </td>
-              This is array index: 190 and here is the result:  class="views-field views-field-field-crn" >
+              <td class="views-field views-field-field-crn" >
           14001        </td>
           </tr>
       <tr class="odd">
-              This is array index: 191 and here is the result:  class="views-field views-field-field-course-display-name" >
+              This is array index: 39 and here is the result: 
           <a href="http://www.extension.harvard.edu/academics/courses/genetics-human-disease/23812" title="Genetics of Human Disease - 23812">BIOS E-145 Genetics of Human Disease</a>
 <div class="view view-secondary-instructors-per-course-search-results- view-id-secondary_instructors_per_course_search_results_ view-display-id-default view-dom-id-af20f65b2be12a0e5088c4e20bc6f8e9">
         
@@ -1730,17 +1730,17 @@ This is array index: 0 and here is the result:
   
 </div>
         </td>
-              This is array index: 192 and here is the result:  class="views-field views-field-field-term-display-name" >
+              <td class="views-field views-field-field-term-display-name" >
           Spring Term 2016        </td>
-              This is array index: 193 and here is the result:  class="views-field views-field-field-meeting-times" >
+              <td class="views-field views-field-field-meeting-times" >
           Mondays, 5:30-7:30 pm        </td>
-              This is array index: 194 and here is the result:  class="views-field views-field-field-course-format" >
+              <td class="views-field views-field-field-course-format" >
           Online with the option to attend class on campus        </td>
-              This is array index: 195 and here is the result:  class="views-field views-field-field-crn" >
+              <td class="views-field views-field-field-crn" >
           23812        </td>
           </tr>
       <tr class="even">
-              This is array index: 196 and here is the result:  class="views-field views-field-field-course-display-name" >
+              This is array index: 40 and here is the result: 
           <a href="http://www.extension.harvard.edu/academics/courses/medical-microbiology/24224" title="Medical Microbiology - 24224">BIOS E-155 Medical Microbiology</a>
 <div class="view view-secondary-instructors-per-course-search-results- view-id-secondary_instructors_per_course_search_results_ view-display-id-default view-dom-id-4f9df9771ad65444fb59efa6974ba498">
         
@@ -1777,17 +1777,17 @@ This is array index: 0 and here is the result:
   
 </div>
         </td>
-              This is array index: 197 and here is the result:  class="views-field views-field-field-term-display-name" >
+              <td class="views-field views-field-field-term-display-name" >
           Spring Term 2016        </td>
-              This is array index: 198 and here is the result:  class="views-field views-field-field-meeting-times" >
+              <td class="views-field views-field-field-meeting-times" >
           Thursdays, 5:30-7:30 pm        </td>
-              This is array index: 199 and here is the result:  class="views-field views-field-field-course-format" >
+              <td class="views-field views-field-field-course-format" >
           On campus only        </td>
-              This is array index: 200 and here is the result:  class="views-field views-field-field-crn" >
+              <td class="views-field views-field-field-crn" >
           24224        </td>
           </tr>
       <tr class="odd">
-              This is array index: 201 and here is the result:  class="views-field views-field-field-course-display-name" >
+              This is array index: 41 and here is the result: 
           <a href="http://www.extension.harvard.edu/academics/courses/viruses-molecular-machines-persisting-boundaries-life/14263" title="Viruses: Molecular Machines Persisting at the Boundaries of Life - 14263">BIOS E-157 Viruses: Molecular Machines Persisting at the Boundaries of Life</a>
 <div class="view view-secondary-instructors-per-course-search-results- view-id-secondary_instructors_per_course_search_results_ view-display-id-default view-dom-id-46088c0ffeb0918032cc37448e3d4c12">
         
@@ -1810,17 +1810,17 @@ This is array index: 0 and here is the result:
   
 </div>
         </td>
-              This is array index: 202 and here is the result:  class="views-field views-field-field-term-display-name" >
+              <td class="views-field views-field-field-term-display-name" >
           Fall Term 2015        </td>
-              This is array index: 203 and here is the result:  class="views-field views-field-field-meeting-times" >
+              <td class="views-field views-field-field-meeting-times" >
           Thursdays, 7:40-9:40 pm        </td>
-              This is array index: 204 and here is the result:  class="views-field views-field-field-course-format" >
+              <td class="views-field views-field-field-course-format" >
           Online with the option to attend class on campus        </td>
-              This is array index: 205 and here is the result:  class="views-field views-field-field-crn" >
+              <td class="views-field views-field-field-crn" >
           14263        </td>
           </tr>
       <tr class="even">
-              This is array index: 206 and here is the result:  class="views-field views-field-field-course-display-name" >
+              This is array index: 42 and here is the result: 
           <a href="http://www.extension.harvard.edu/academics/courses/human-pathophysiology-i/14744" title="Human Pathophysiology I - 14744">BIOS E-162A Human Pathophysiology I</a>
 <div class="view view-secondary-instructors-per-course-search-results- view-id-secondary_instructors_per_course_search_results_ view-display-id-default view-dom-id-d28c6ae95be4b8d056903441192eef05">
         
@@ -1850,17 +1850,17 @@ This is array index: 0 and here is the result:
   
 </div>
         </td>
-              This is array index: 207 and here is the result:  class="views-field views-field-field-term-display-name" >
+              <td class="views-field views-field-field-term-display-name" >
           Fall Term 2015        </td>
-              This is array index: 208 and here is the result:  class="views-field views-field-field-meeting-times" >
+              <td class="views-field views-field-field-meeting-times" >
           Mondays, 5:30-7:30 pm        </td>
-              This is array index: 209 and here is the result:  class="views-field views-field-field-course-format" >
+              <td class="views-field views-field-field-course-format" >
           On campus only        </td>
-              This is array index: 210 and here is the result:  class="views-field views-field-field-crn" >
+              <td class="views-field views-field-field-crn" >
           14744        </td>
           </tr>
       <tr class="odd">
-              This is array index: 211 and here is the result:  class="views-field views-field-field-course-display-name" >
+              This is array index: 43 and here is the result: 
           <a href="http://www.extension.harvard.edu/academics/courses/human-endocrine-physiology/23840" title="Human Endocrine Physiology - 23840">BIOS E-163 Human Endocrine Physiology</a>
 <div class="view view-secondary-instructors-per-course-search-results- view-id-secondary_instructors_per_course_search_results_ view-display-id-default view-dom-id-f3fee113654ea56bcc70cf8e7b58f4e6">
         
@@ -1883,17 +1883,17 @@ This is array index: 0 and here is the result:
   
 </div>
         </td>
-              This is array index: 212 and here is the result:  class="views-field views-field-field-term-display-name" >
+              <td class="views-field views-field-field-term-display-name" >
           Spring Term 2016        </td>
-              This is array index: 213 and here is the result:  class="views-field views-field-field-meeting-times" >
+              <td class="views-field views-field-field-meeting-times" >
           Thursdays, 5:30-7:30 pm        </td>
-              This is array index: 214 and here is the result:  class="views-field views-field-field-course-format" >
+              <td class="views-field views-field-field-course-format" >
           Online with the option to attend class on campus        </td>
-              This is array index: 215 and here is the result:  class="views-field views-field-field-crn" >
+              <td class="views-field views-field-field-crn" >
           23840        </td>
           </tr>
       <tr class="even">
-              This is array index: 216 and here is the result:  class="views-field views-field-field-course-display-name" >
+              This is array index: 44 and here is the result: 
           <a href="http://www.extension.harvard.edu/academics/courses/introduction-microscopy/14234" title="Introduction to Microscopy - 14234">BIOS E-170 Introduction to Microscopy</a>
 <div class="view view-secondary-instructors-per-course-search-results- view-id-secondary_instructors_per_course_search_results_ view-display-id-default view-dom-id-8e9f935e6119b10d5b9e1bba49094c99">
         
@@ -1930,17 +1930,17 @@ This is array index: 0 and here is the result:
   
 </div>
         </td>
-              This is array index: 217 and here is the result:  class="views-field views-field-field-term-display-name" >
+              <td class="views-field views-field-field-term-display-name" >
           Fall Term 2015        </td>
-              This is array index: 218 and here is the result:  class="views-field views-field-field-meeting-times" >
+              <td class="views-field views-field-field-meeting-times" >
           Wednesdays, 5:30-7:30 pm        </td>
-              This is array index: 219 and here is the result:  class="views-field views-field-field-course-format" >
+              <td class="views-field views-field-field-course-format" >
           On campus only        </td>
-              This is array index: 220 and here is the result:  class="views-field views-field-field-crn" >
+              <td class="views-field views-field-field-crn" >
           14234        </td>
           </tr>
       <tr class="odd">
-              This is array index: 221 and here is the result:  class="views-field views-field-field-course-display-name" >
+              This is array index: 45 and here is the result: 
           <a href="http://www.extension.harvard.edu/academics/courses/optical-imaging-modern-biomedical-research-introduction-principles-techniques" title="Optical Imaging in Modern Biomedical Research: An Introduction to Principles and Techniques - 23296">BIOS E-175 Optical Imaging in Modern Biomedical Research: An Introduction to Principles and Techniques</a>
 <div class="view view-secondary-instructors-per-course-search-results- view-id-secondary_instructors_per_course_search_results_ view-display-id-default view-dom-id-8cd3a03e45e5da940e808f17a3bdda17">
         
@@ -1963,17 +1963,17 @@ This is array index: 0 and here is the result:
   
 </div>
         </td>
-              This is array index: 222 and here is the result:  class="views-field views-field-field-term-display-name" >
+              <td class="views-field views-field-field-term-display-name" >
           January session        </td>
-              This is array index: 223 and here is the result:  class="views-field views-field-field-meeting-times" >
+              <td class="views-field views-field-field-meeting-times" >
           Mondays-Thursdays, 5:30-8:30 pm        </td>
-              This is array index: 224 and here is the result:  class="views-field views-field-field-course-format" >
+              <td class="views-field views-field-field-course-format" >
           On campus only        </td>
-              This is array index: 225 and here is the result:  class="views-field views-field-field-crn" >
+              <td class="views-field views-field-field-crn" >
           23296        </td>
           </tr>
       <tr class="even">
-              This is array index: 226 and here is the result:  class="views-field views-field-field-course-display-name" >
+              This is array index: 46 and here is the result: 
           <a href="http://www.extension.harvard.edu/academics/courses/gene-expression-hands-approach/24205" title="Gene Expression: A Hands-on Approach - 24205">BIOS E-179 Gene Expression: A Hands-on Approach</a>
 <div class="view view-secondary-instructors-per-course-search-results- view-id-secondary_instructors_per_course_search_results_ view-display-id-default view-dom-id-7d7b03aa2882a4b087f9a360e086448e">
         
@@ -1996,17 +1996,17 @@ This is array index: 0 and here is the result:
   
 </div>
         </td>
-              This is array index: 227 and here is the result:  class="views-field views-field-field-term-display-name" >
+              <td class="views-field views-field-field-term-display-name" >
           January session        </td>
-              This is array index: 228 and here is the result:  class="views-field views-field-field-meeting-times" >
+              <td class="views-field views-field-field-meeting-times" >
           Tuesdays, Thursdays, 5:30-8:30 pm        </td>
-              This is array index: 229 and here is the result:  class="views-field views-field-field-course-format" >
+              <td class="views-field views-field-field-course-format" >
           On campus only        </td>
-              This is array index: 230 and here is the result:  class="views-field views-field-field-crn" >
+              <td class="views-field views-field-field-crn" >
           24205        </td>
           </tr>
       <tr class="odd">
-              This is array index: 231 and here is the result:  class="views-field views-field-field-course-display-name" >
+              This is array index: 47 and here is the result: 
           <a href="http://www.extension.harvard.edu/academics/courses/proseminar-graduate-research-methods-scholarly-writing-biological-sciences/13092" title="Proseminar: Graduate Research Methods and Scholarly Writing in the Biological Sciences - 13092">BIOS E-200 Proseminar: Graduate Research Methods and Scholarly Writing in the Biological Sciences</a>
 <div class="view view-secondary-instructors-per-course-search-results- view-id-secondary_instructors_per_course_search_results_ view-display-id-default view-dom-id-86ec4ec073975680b5926b5f2a0d6c32">
         
@@ -2029,17 +2029,17 @@ This is array index: 0 and here is the result:
   
 </div>
         </td>
-              This is array index: 232 and here is the result:  class="views-field views-field-field-term-display-name" >
+              <td class="views-field views-field-field-term-display-name" >
           Fall Term 2015        </td>
-              This is array index: 233 and here is the result:  class="views-field views-field-field-meeting-times" >
+              <td class="views-field views-field-field-meeting-times" >
           Thursdays, 5:30-7:30 pm        </td>
-              This is array index: 234 and here is the result:  class="views-field views-field-field-course-format" >
+              <td class="views-field views-field-field-course-format" >
           On campus only        </td>
-              This is array index: 235 and here is the result:  class="views-field views-field-field-crn" >
+              <td class="views-field views-field-field-crn" >
           13092        </td>
           </tr>
       <tr class="even">
-              This is array index: 236 and here is the result:  class="views-field views-field-field-course-display-name" >
+              This is array index: 48 and here is the result: 
           <a href="http://www.extension.harvard.edu/academics/courses/proseminar-graduate-research-methods-scholarly-writing-biological-sciences/22950" title="Proseminar: Graduate Research Methods and Scholarly Writing in the Biological Sciences - 22950">BIOS E-200 Proseminar: Graduate Research Methods and Scholarly Writing in the Biological Sciences</a>
 <div class="view view-secondary-instructors-per-course-search-results- view-id-secondary_instructors_per_course_search_results_ view-display-id-default view-dom-id-3bdaa736819cd892839942ccf5544b3c">
         
@@ -2062,17 +2062,17 @@ This is array index: 0 and here is the result:
   
 </div>
         </td>
-              This is array index: 237 and here is the result:  class="views-field views-field-field-term-display-name" >
+              <td class="views-field views-field-field-term-display-name" >
           Spring Term 2016        </td>
-              This is array index: 238 and here is the result:  class="views-field views-field-field-meeting-times" >
+              <td class="views-field views-field-field-meeting-times" >
           Wednesdays, 5:30-7:30 pm        </td>
-              This is array index: 239 and here is the result:  class="views-field views-field-field-course-format" >
+              <td class="views-field views-field-field-course-format" >
           On campus only        </td>
-              This is array index: 240 and here is the result:  class="views-field views-field-field-crn" >
+              <td class="views-field views-field-field-crn" >
           22950        </td>
           </tr>
       <tr class="odd">
-              This is array index: 241 and here is the result:  class="views-field views-field-field-course-display-name" >
+              This is array index: 49 and here is the result: 
           <a href="http://www.extension.harvard.edu/academics/courses/developmental-regenerative-biology/14278" title="Developmental and Regenerative Biology - 14278">BIOS E-204 Developmental and Regenerative Biology</a>
 <div class="view view-secondary-instructors-per-course-search-results- view-id-secondary_instructors_per_course_search_results_ view-display-id-default view-dom-id-cbb44057130eeded0bf7ace8c764bcee">
         
@@ -2095,17 +2095,17 @@ This is array index: 0 and here is the result:
   
 </div>
         </td>
-              This is array index: 242 and here is the result:  class="views-field views-field-field-term-display-name" >
+              <td class="views-field views-field-field-term-display-name" >
           Fall Term 2015        </td>
-              This is array index: 243 and here is the result:  class="views-field views-field-field-meeting-times" >
+              <td class="views-field views-field-field-meeting-times" >
           Tuesdays, 7:40-9:40 pm        </td>
-              This is array index: 244 and here is the result:  class="views-field views-field-field-course-format" >
+              <td class="views-field views-field-field-course-format" >
           On campus only        </td>
-              This is array index: 245 and here is the result:  class="views-field views-field-field-crn" >
+              <td class="views-field views-field-field-crn" >
           14278        </td>
           </tr>
       <tr class="even views-row-last">
-              This is array index: 246 and here is the result:  class="views-field views-field-field-course-display-name" >
+              This is array index: 50 and here is the result: 
           <a href="http://www.extension.harvard.edu/academics/courses/neurobiology-emotion-psychiatric-illnesses/23451" title="Neurobiology of Emotion and Psychiatric Illnesses - 23451">BIOS E-232 Neurobiology of Emotion and Psychiatric Illnesses</a>
 <div class="view view-secondary-instructors-per-course-search-results- view-id-secondary_instructors_per_course_search_results_ view-display-id-default view-dom-id-5cc1cd9079f783bb16816e1f9840885b">
         
@@ -2128,13 +2128,13 @@ This is array index: 0 and here is the result:
   
 </div>
         </td>
-              This is array index: 247 and here is the result:  class="views-field views-field-field-term-display-name" >
+              <td class="views-field views-field-field-term-display-name" >
           Spring Term 2016        </td>
-              This is array index: 248 and here is the result:  class="views-field views-field-field-meeting-times" >
+              <td class="views-field views-field-field-meeting-times" >
           Wednesdays, 7:40-9:40 pm        </td>
-              This is array index: 249 and here is the result:  class="views-field views-field-field-course-format" >
+              <td class="views-field views-field-field-course-format" >
           On campus only        </td>
-              This is array index: 250 and here is the result:  class="views-field views-field-field-crn" >
+              <td class="views-field views-field-field-crn" >
           23451        </td>
           </tr>
   </tbody>	      </table>
