@@ -348,10 +348,9 @@ for($i = 0; $i < sizeof($pieces); $i++){
     $j++;
 }
 
-for($k = 0; $k < sizeof($newstring); $k++) {
-//    echo "Array #" . $k . " is: " . strip_tags($newstring[$k]) . "<br>";
-}
-
+//for($k = 0; $k < sizeof($newstring); $k++) {
+//  echo "Array #" . $k . " is: " . strip_tags($newstring[$k]) . "<br>";
+//}
 
 //Taking out blank array entries
 $no_blanks_in_array = array();
@@ -360,57 +359,88 @@ for($k = 0; $k < sizeof($newstring); $k++) {
 //    echo "Array K##" . $k . " is: " . $newstring[$k] . "<br>";
 
     if(preg_match("/[a-z]+\s+|[a-z]+|\s+[a-z]+|\d+\s+/", $newstring[$k])){
-        $no_blanks_in_array[$l] = $newstring[$k];
-        echo $no_blanks_in_array[$l];
+        $no_blanks_in_array[$l] = trim($newstring[$k]);
+//        echo "Array L#" . $l . " is: " . $no_blanks_in_array[$l] . "<br>";
         $l++;
     }
 }
 
 
-/*
 $z = 0;
 $course_data_structure = array();
 for($j = 0; $j < sizeof($no_blanks_in_array); $j++){
-
     //Course Title
     $course_data_structure[$z] = $no_blanks_in_array[$j];
+    echo "Course Title #" . $z . " is: " . $course_data_structure[$z] . "<br>";
 
-    $j++;
+    //Course Instructor #1
+    $course_data_structure[++$z] = $no_blanks_in_array[++$j];
+    echo "Instruc 1#" . $z . " is: " . $course_data_structure[$z] . "<br>";
+
+    if(trim($no_blanks_in_array[$j+1]) == 'Fall Term 2015' ||
+        trim($no_blanks_in_array[$j+1]) == 'Spring Term 2016' ||
+        trim($no_blanks_in_array[$j+1]) == 'January session')
+    {
+
+    } else {
+        //Course Instructor #2 same $z index new $j
+        $course_data_structure[$z] .= " " . $no_blanks_in_array[++$j];
+        echo "Instruc 2#" . $z . " is: " . $course_data_structure[$z] . "<br>";
+    }
+
+    if(trim($no_blanks_in_array[$j+1]) == 'Fall Term 2015' ||
+        trim($no_blanks_in_array[$j+1]) == 'Spring Term 2016' ||
+        trim($no_blanks_in_array[$j+1]) == 'January session')
+    {
+    } else {
+        //Course Instructor #3 same $z index new $j
+        $course_data_structure[$z] .= " " . $no_blanks_in_array[++$j];
+        echo "Instruc 3#" . $z . " is: " . $course_data_structure[$z] . "<br>";
+    }
+
+    if(trim($no_blanks_in_array[$j+1]) == 'Fall Term 2015' ||
+        trim($no_blanks_in_array[$j+1]) == 'Spring Term 2016' ||
+        trim($no_blanks_in_array[$j+1]) == 'January session')
+    {
+    } else {
+        //Course Instructor #4 same $z index new $j
+        $course_data_structure[$z] .= " " . $no_blanks_in_array[++$j];
+        echo "Instruc 4#" . $z . " is: " . $course_data_structure[$z] . "<br>";
+    }
+
+    if(trim($no_blanks_in_array[$j+1]) == 'Fall Term 2015' ||
+        trim($no_blanks_in_array[$j+1]) == 'Spring Term 2016' ||
+        trim($no_blanks_in_array[$j+1]) == 'January session')
+    {
+    } else {
+        //Course Instructor #5 same $z index new $j
+        $course_data_structure[$z] .= " " . $no_blanks_in_array[++$j];
+        echo "Instruc 5#" . $z . " is: " . $course_data_structure[$z] . "<br>";
+    }
+
+    //Course semester
+    $course_data_structure[++$z] = $no_blanks_in_array[++$j];
+    echo "The semester is " . $z . " is: " . $course_data_structure[$z] . "<br>";
+
+    if(trim($no_blanks_in_array[$j + 1]) != "On campus only" &&
+        trim($no_blanks_in_array[$j + 1]) != "Online only")
+    {
+        //Course Day and Time
+        $course_data_structure[++$z] = $no_blanks_in_array[++$j];
+        echo "Day and Time#" . $z . " is: " . $course_data_structure[$z] . "<br>";
+    }
+    //Course Delivery
+    $course_data_structure[++$z] = $no_blanks_in_array[++$j];
+    echo "Course Delivery#" . $z . " is: " . $course_data_structure[$z] . "<br>";
+
+    //Course CRN
+    $course_data_structure[++$z] = $no_blanks_in_array[++$j];
+    echo "Course CRN#" . $z . " is: " . $course_data_structure[$z] . "<br>";
+
     $z++;
 
-    if($j < sizeof($no_blanks_in_array)) {
-        //Course Teacher(s)
-        while ($no_blanks_in_array[$j] != 'Fall Term 2015' &&
-            $no_blanks_in_array[$j] != 'Spring Term 2016' &&
-            $no_blanks_in_array[$j] != 'January session') {
-            if($j < sizeof($no_blanks_in_array)) {
-
-                $course_data_structure[$z] += $no_blanks_in_array[$j];
-                $j++;
-                $z++;
-            }
-        }
-    }
-
-    if($j < sizeof($no_blanks_in_array)) {
-
-        //Course Semester
-        $course_data_structure[$z] = $no_blanks_in_array[$j];
-    }
-
-    if($j < sizeof($no_blanks_in_array)) {
-        //Course Delivery
-        $course_data_structure[++$z] = $no_blanks_in_array[++$j];
-    }
-
-    if($j < sizeof($no_blanks_in_array)) {
-        //Course CRN
-        $course_data_structure[++$z] = $no_blanks_in_array[++$j];
-    }
-    echo "Array Z#" . $z . " is: " . $course_data_structure[$z] . "<br>";
-
-    $z++;
 }
+
 
 //Array Structure:
 //Title
@@ -422,4 +452,3 @@ for($j = 0; $j < sizeof($no_blanks_in_array); $j++){
 //Delivery
 //CRN
 
-*/
