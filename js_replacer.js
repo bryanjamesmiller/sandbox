@@ -1,6 +1,0 @@
-/**
- * Created by B on 7/7/2015.
- */
-var unformatted_str = '<tr class="odd"><td class="views-field views-field-field-course-display-name" ><a href="http://www.extension.harvard.edu/academics/courses/intensive-elementary-modern-standard-arabic-ii/23418" title="Intensive Elementary Modern Standard Arabic II - 23418">ARAB E-2 Intensive Elementary Modern Standard Arabic II</a><div class="view view-secondary-instructors-per-course-search-results- view-id-secondary_instructors_per_course_search_results_ view-display-id-default view-dom-id-379fb400d5afeef4123f53ca325fec05"><div class="view-content"> <div> <a href="/faculty-directory/feryal-hijazi"><p>Feryal Hijazi </p></a></div> </div> </div> </td> <td class="views-field views-field-field-term-display-name" >Spring Term 2016 </td> <td class="views-field views-field-field-meeting-times" > Mondays, Wednesdays, 5:30-7:30 pm </td> <td class="views-field views-field-field-course-format" > On campus only </td> <td class="views-field views-field-field-crn" > 23418 </td> </tr>';
-
-var txt = unformatted_str.replace("","W3Schools");

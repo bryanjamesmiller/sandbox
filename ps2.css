@@ -1,0 +1,70 @@
+html {
+    box-sizing: border-box;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+body{
+    padding: 0;
+    margin: 0;
+}
+
+header h1{
+    width:50%;
+    float:left;
+    text-align:center;
+}
+
+nav{
+    width:50%
+    float:left;
+    padding-top:1em;
+}
+
+header{
+    width:100%;
+    overflow:auto; /* This clears the floats above.  There's another header higher up in this css file as well FYI */
+    border:1px solid blue;
+    background-color: darkgoldenrod;
+    position: fixed;
+}
+
+article{
+    margin:50px auto 0 auto;
+    overflow:auto; /* Clear floats*/
+}
+
+aside{
+    margin:50px auto 0 auto;
+    overflow:auto; /* Clear notes*/
+}
+
+nav ul{
+    list-style-type: none;
+    text-align:center;
+}
+
+nav li{
+    display:inline; /* The "inline" means they are as wide as their content. */
+    padding-right:3em;
+}
+
+nav a{
+    color: black;
+    display: inline-block;
+    font-weight:bold;
+}
+
+nav a:hover{
+    background-color:black;
+    color:darkgoldenrod;
+}
+
+.middle {
+    width: 80%;
+    padding-top:100px;
+    overflow: auto; /* Clearing the floats from the nav */
+}
+
