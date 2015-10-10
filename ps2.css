@@ -41,9 +41,9 @@ header{
 article{
     margin:50px auto 0 auto;
 
-    -webkit-columns: 3 300px;
-    -moz-columns: 3 300px;
-    columns:3 300px;
+    -webkit-columns: 3 200px;
+    -moz-columns: 3 200px;
+    columns:3 200px;
 
     -webkit-column-gap: 2em;
     -moz-column-gap: 2em;
@@ -78,10 +78,45 @@ hr{
     border-radius:7px;
 }
 
+.clear {
+    clear: left;
+}
+
 .middle {
-    clear:left;
-    width: 80%;
+    width: 75%;
     margin:auto;
     padding-top:100px;
 }
 
+img{
+    float:left;
+    max-width: 100%;
+    max-height: 100%;
+    margin:0 1em 1em 0;
+}
+
+.resized{
+    height:200px;
+    width:250px;
+}
+
+form{
+    clear:left;
+}
+
+input{
+    display:block;
+}
+
+aside{
+    background-color: darkgoldenrod;
+    position:absolute;
+    width:7em;
+    top:30em;
+    right:1em;
+    padding:1em;
+    font-weight:bold;
+    border: 1px dotted black;
+    border-radius:7px;
+
+}
