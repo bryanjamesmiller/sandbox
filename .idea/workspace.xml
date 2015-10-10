@@ -22,11 +22,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="register.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/register.html">
+      <file leaf-file-name="ps2.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ps2.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8053097">
-              <caret line="45" column="55" selection-start-line="45" selection-start-column="55" selection-end-line="45" selection-end-column="55" />
+            <state vertical-scroll-proportion="0.58152175">
+              <caret line="122" column="1" selection-start-line="122" selection-start-column="1" selection-end-line="122" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -70,8 +70,8 @@
         <option value="$PROJECT_DIR$/ps2.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/forum.html" />
-        <option value="$PROJECT_DIR$/ps2.css" />
         <option value="$PROJECT_DIR$/register.html" />
+        <option value="$PROJECT_DIR$/ps2.css" />
       </list>
     </option>
   </component>
@@ -142,7 +142,7 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/xampp/htdocs/sandbox/register.html&#10;css&#9;FILE&#9;file://C:/xampp/htdocs/sandbox/ps2.css&#10;review.php&#9;FILE&#9;file://C:/xampp/htdocs/sandbox/applications/vanilla/views/post/preview.php" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/xampp/htdocs/sandbox/ps2.css&#10;css&#9;FILE&#9;file://C:/xampp/htdocs/sandbox/ps2.css&#10;review.php&#9;FILE&#9;file://C:/xampp/htdocs/sandbox/applications/vanilla/views/post/preview.php" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="FullScreen" value="false" />
@@ -344,40 +344,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ps2.css">
+    <entry file="file://$PROJECT_DIR$/register.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8804348">
-          <caret line="127" column="1" selection-start-line="127" selection-start-column="1" selection-end-line="127" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.8702065">
+          <caret line="45" column="35" selection-start-line="45" selection-start-column="35" selection-end-line="45" selection-end-column="35" />
           <folding>
-            <marker date="1444520324035" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1444520324035" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1444520324035" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1444520324035" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1444520324035" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1444520324035" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1444520324035" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1444520324035" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1444520324035" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1444520324035" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1444520324035" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1444520324035" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1444520324035" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1444520324035" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1444520324035" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1444520324035" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1444520324035" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1444520324035" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1444520324035" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1444520324035" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1444520324035" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444520913920" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444520913920" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444520913920" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444520913920" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444520913920" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444520913920" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444520913920" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444520913920" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444520913920" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/register.html">
+    <entry file="file://$PROJECT_DIR$/ps2.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8053097">
-          <caret line="45" column="55" selection-start-line="45" selection-start-column="55" selection-end-line="45" selection-end-column="55" />
+        <state vertical-scroll-proportion="0.58152175">
+          <caret line="122" column="1" selection-start-line="122" selection-start-column="1" selection-end-line="122" selection-end-column="1" />
           <folding />
         </state>
       </provider>
