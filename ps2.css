@@ -106,6 +106,8 @@ form{
 
 input{
     display:block;
+    padding:1em;
+    margin:1em;
 }
 
 aside{
@@ -118,5 +120,9 @@ aside{
     font-weight:bold;
     border: 1px dotted black;
     border-radius:7px;
+}
 
+label{
+    position:relative;
+    left:80px;
 }
