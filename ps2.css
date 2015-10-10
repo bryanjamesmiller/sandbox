@@ -12,15 +12,24 @@ body{
 }
 
 header h1{
+    margin-top:20px;
+    margin-bottom: 20px;;
     width:50%;
     float:left;
     text-align:center;
 }
 
+.middle h1{
+    text-align: center;
+    font-size: 5em;
+    color:darkgoldenrod;
+}
+
+
 nav{
-    width:50%
+    width:50%;
     float:left;
-    padding-top:1em;
+    margin-top:20px;
 }
 
 header{
@@ -33,12 +42,19 @@ header{
 
 article{
     margin:50px auto 0 auto;
-    overflow:auto; /* Clear floats*/
+
+    -webkit-columns: 3 300px;
+    -moz-columns: 3 300px;
+    columns:3 300px;
+
+    -webkit-column-gap: 2em;
+    -moz-column-gap: 2em;
+    column-gap:2em;
 }
 
 aside{
     margin:50px auto 0 auto;
-    overflow:auto; /* Clear notes*/
+    overflow:auto; /* Another way to clear floats */
 }
 
 nav ul{
@@ -64,7 +80,7 @@ nav a:hover{
 
 .middle {
     width: 80%;
+    margin:auto;
     padding-top:100px;
-    overflow: auto; /* Clearing the floats from the nav */
 }
 
