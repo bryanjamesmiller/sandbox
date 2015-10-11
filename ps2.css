@@ -159,7 +159,7 @@ fieldset{
     width:40%;
 }
 
-[type="submit"]{
+input[type="submit"]{
     width:85%;
     border-radius:3em;
     font-weight:bold;
@@ -168,11 +168,11 @@ fieldset{
     padding:.5em;
 }
 
-[type="submit"]:hover{
+input[type="submit"]:hover{
     background-color:darkgoldenrod;;
 }
 
-[type="radio"]{
+input[type="radio"]{
     display:inline;
 }
 
@@ -185,6 +185,6 @@ h3{
     left:30px;
 }
 
-[type="number"]{
+input[type="number"]{
     margin-bottom:2.2em;
 }
