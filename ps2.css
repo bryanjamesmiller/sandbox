@@ -150,8 +150,24 @@ legend{
     font-family: "Open Sans", sans-serif;
     font-size:2em;
     margin:1em;
+    font-weight:bold;
 }
 
 fieldset{
     margin:2em;
+    float:left;
+    width:40%;
+}
+
+[type="submit"]{
+    width:85%;
+    border-radius:3em;
+    font-weight:bold;
+    font-size:1.5em;
+    font-family:"Open Sans", serif;
+    padding:.5em;
+}
+
+[type="submit"]:hover{
+    background-color:darkgoldenrod;;
 }
