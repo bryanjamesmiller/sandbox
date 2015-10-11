@@ -171,3 +171,20 @@ fieldset{
 [type="submit"]:hover{
     background-color:darkgoldenrod;;
 }
+
+[type="radio"]{
+    display:inline;
+}
+
+h3{
+    position:relative;
+    margin-bottom:0;
+    font-weight:normal;
+    font-family:serif;
+    font-size:1em;
+    left:30px;
+}
+
+[type="number"]{
+    margin-bottom:2.2em;
+}
