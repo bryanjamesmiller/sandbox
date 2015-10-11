@@ -29,23 +29,29 @@
     <p>An SEC matchup between historical powerhouses Auburn and Georgia.</p>
     <p>One factor of Missouri's success has been the lack of facing the predominant SEC west powerhouses.</p>
 
-    <form action="">
-        <label for="first">Name</label>
-        <input type="text" name="first" id="first" required>
-        <label for="email">Email</label>
-        <input type="email" name="email" id="email">
-        <label for="phone">Phone</label>
-        <input type="tel" name="phone" id="phone">
-        <label for="date">Current Date</label>
-        <input type="date" name="date" id="date">
-        <label for="color">Favorite Color</label>
-        <input type="color" name="date" id="color">
-        <label for="month">Month & Year Born</label>
-        <input type="month" name="month" id="month">
-        <label for="number">Favorite Number</label>
-        <input type="number" name="number" id="number">
+    <form action="register.html" method="get">
+        <fieldset>
+            <legend>Required Fields</legend>
+            <label for="first">Name</label>
+            <input type="text" name="first" id="first" required>
+            <label for="email">Email</label>
+            <input type="email" name="email" id="email" required>
+            <label for="phone">Phone</label>
+            <input type="tel" name="phone" id="phone" required>
+        </fieldset>
+        <fieldset>
+            <legend>Optional Profile Information</legend>
+            <label for="date">Current Date</label>
+            <input type="date" name="date" id="date">
+            <label for="color">Favorite Color</label>
+            <input type="color" name="date" id="color">
+            <label for="month">Month & Year Born</label>
+            <input type="month" name="month" id="month">
+            <label for="number">Favorite Number</label>
+            <input type="number" name="number" id="number">
 
-        <input type="submit">
+            <input type="submit">
+        </fieldset>
     </form>
 </div>
 
@@ -53,5 +59,8 @@
     Design and content by Bryan Miller for DGMD E-20, Problem Set #2
 </aside>
 
+<footer>
+    Website made possible via a Harvard Extension School education
+</footer>
 </body>
 </html>

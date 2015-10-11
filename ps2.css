@@ -34,7 +34,7 @@ nav{
 header{
     width:100%;
     border:1px solid blue;
-    background-color: darkgoldenrod;
+    background-color: darkgoldenrod; z-index: 1;
     position: fixed;
 }
 
@@ -144,4 +144,9 @@ footer{
     top:25em;
     padding:1em;
     text-align:right;
+}
+
+legend{
+    font-family: "Open Sans", sans-serif;
+    font-size:2em;
 }
