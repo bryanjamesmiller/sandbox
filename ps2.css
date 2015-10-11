@@ -126,3 +126,12 @@ label{
     position:relative;
     left:30px;
 }
+
+@font-face {
+    font-family: "Open Sans";
+    src: url('fonts/OpenSans-Regular.ttf');
+}
+
+h2{
+    font-family:"Open Sans", sans-serif;
+}
