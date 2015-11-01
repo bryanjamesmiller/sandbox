@@ -1,0 +1,67 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+
+// @import "compass/reset";
+
+body {
+	background: #000;
+}
+
+a {
+	color: #56A0D3;
+}
+
+a:visited {
+	color:#000;
+}
+
+.masthead {
+
+
+	background-color: #000;
+
+	h2 {
+		color:#fefefe;
+	}
+
+	p.tag {
+		color:#eee;
+	}
+}
+
+.main {
+
+	background-color:#000;
+	color:#fff;
+
+	a {
+		color:#56A0D3;
+	}
+	h3 {
+		color:#fff;
+	}
+
+	.panel {
+
+		background-color:#E5E4E2;
+
+		a {
+			color:#56A0D3;
+		}
+
+	}
+	.label a {
+		color:#fff;
+		font-weight:lighter;
+	}
+
+	.left {
+
+		float:left;
+		margin-right:15px;
+
+	}
+
+}

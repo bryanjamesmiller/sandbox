@@ -1,0 +1,50 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+/* line 8, ../../sass/screen.scss */
+body {
+  background: #000; }
+
+/* line 12, ../../sass/screen.scss */
+a {
+  color: #56A0D3; }
+
+/* line 16, ../../sass/screen.scss */
+a:visited {
+  color: #000; }
+
+/* line 20, ../../sass/screen.scss */
+.masthead {
+  background-color: #000; }
+  /* line 25, ../../sass/screen.scss */
+  .masthead h2 {
+    color: #fefefe; }
+  /* line 29, ../../sass/screen.scss */
+  .masthead p.tag {
+    color: #eee; }
+
+/* line 34, ../../sass/screen.scss */
+.main {
+  background-color: #000;
+  color: #fff; }
+  /* line 39, ../../sass/screen.scss */
+  .main a {
+    color: #56A0D3; }
+  /* line 42, ../../sass/screen.scss */
+  .main h3 {
+    color: #fff; }
+  /* line 46, ../../sass/screen.scss */
+  .main .panel {
+    background-color: #E5E4E2; }
+    /* line 50, ../../sass/screen.scss */
+    .main .panel a {
+      color: #56A0D3; }
+  /* line 55, ../../sass/screen.scss */
+  .main .label a {
+    color: #fff;
+    font-weight: lighter; }
+  /* line 60, ../../sass/screen.scss */
+  .main .left {
+    float: left;
+    margin-right: 15px; }

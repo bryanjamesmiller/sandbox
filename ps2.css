@@ -41,13 +41,13 @@ header{
 article{
     margin:50px auto 0 auto;
 
-    -webkit-columns: 3 200px;
-    -moz-columns: 3 200px;
-    columns:3 200px;
+    -webkit-columns: 3 150px;
+    -moz-columns: 3 150px;
+    columns:3 150px;
 
-    -webkit-column-gap: 2em;
-    -moz-column-gap: 2em;
-    column-gap:2em;
+    -webkit-column-gap: 1.5em;
+    -moz-column-gap: 1.5em;
+    column-gap:1.5em;
 }
 
 nav ul{
@@ -113,18 +113,19 @@ input{
 aside{
     background-color: darkgoldenrod;
     position:absolute;
-    width:7em;
+    width:10%;
     top:30em;
     right:1em;
     padding:1em;
     font-weight:bold;
     border: 1px dotted black;
     border-radius:7px;
+    opacity:.8;
 }
 
-label{
+label:not(.radio){
     position:relative;
-    left:30px;
+    left:30px;  font-weight:bold;
 }
 
 @font-face {
@@ -182,7 +183,7 @@ h3{
     font-weight:normal;
     font-family:serif;
     font-size:1em;
-    left:30px;
+    left:30px;  font-weight: bold;
 }
 
 input[type="number"]{
