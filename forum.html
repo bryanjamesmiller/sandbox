@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,6 +9,11 @@
     <!-- All content is original, created by me. -->
     <link href="ps2.css" rel="stylesheet">
 </head>
+<style>
+	div{
+		margin-top:10px;
+	}
+</style>
 <body>
 <header>
     <h1>Mizzou Football Fan Club</h1>
@@ -24,15 +30,82 @@
     <hr>
     <h1>Forum Discussion</h1>
     <hr>
+
+	<aside>Design and content by Bryan Miller for DGMD E-20, Problem Set #2</aside>
+
+	<h2>This is just a little Javascript experiment to test the behavior of <strong>floats</strong>.</h2>
+	<div>A lot of <strong>floating</strong> is actually done in <em>football</em>.  The football can float in the air to the receiver, who catches it.  The longer the floating, the more potential for a big play.</div>
+	<img src="http://lorempixel.com/400/200/" id="floats"></img>
+	<div>Welcome to the Mizzou football forum, where <em>football</em> and <strong>floats</strong> go hand in hand.</div>
+	<div>Notice how the float doesn't go any higher up than its location in the HTML, but everything below it floats up to its level.</div>
+	<div>Click the below buttons to see how floating the image affects it and the text below it.</div>
+	<div>The image is floating to the left by default because <strong>float:left</strong> is the default CSS attribute for the img tag.</div>
+	<div style="clear:both">This div clears the float by using the css element <strong>clear:both</strong></div>
+	<button type="button" id="left">Float it left</button>
+	<button type="button" id="right">Float it right</button>
+	<button type="button" id="none">Don't Float</button>
+	<hr>
+
+	<h2>Another Javascript experiment to test the behavior of <strong>displays</strong>.</h2>
+        <div class="mydisplay">User 1 says:  "Man, I can't believe Missouri lost to Georgia."</div>
+        <div class="mydisplay">User 2 says: "I'm surprised it was such a close, low-scoring game."</div>
+        <div class="mydisplay">User 3 says: "Missouri could still pull up a crazy SEC East Title."</div>
+        <div class="mydisplay">User 4 says: "Maybe, but they probably won't go to an upper-tier bowl game this year."</div>
+	<div class="mydisplay">User 5 says: "Did you know a <strong>display:block</strong> will stretch the <strong>entire width</strong> of its container
+	by default?"</div>
+        <div class="mydisplay">User 7 says: "Maybe, but a <strong>display:inline</strong> only stretches the width of its content.
+	Trying to change the width of display:inline won't do anything."</div>
+	<div class="mydisplay">User 1 says: "Perhaps, but a <strong>display:inline-block</strong> is like a float but doesn't need to be cleared.
+	You can set width and height attributes for display:inline-block.  You may want to set vertical-align:top so that content lines up.</div>
+	<div class="mydisplay">Moderator says: "Well, with box-sizing: border-box, at least padding and border are now
+	included in the width and height."</div>
+	<div class="mydisplay">User 1 says: "I can't wait to learn more awesome web design in DGMD E-20!"</div>
+	<div>User 1000 says: "My display remains block with a width of 100% despite whatever buttons you might click on."</div>
+        <button type="button" id="block">Set display to block with a width of 50%</button>
+        <button type="button" id="inline">Set display to inline with a width of 75%</button>
+        <button type="button" id="inlineblock">Set display to inline-block with a width of 20%</button>
+        <hr>
 </div>
 
-
-<aside>
-    Design and content by Bryan Miller for DGMD E-20, Problem Set #2
-</aside>
 
 <footer>
     Website made possible via a Harvard Extension School education
 </footer>
+
+<script>
+(function() {
+	var floatme = document.getElementById("floats"); 
+	document.getElementById("left").addEventListener("click", function(){
+		floatme.setAttribute("style", "float:left");
+	});
+
+        document.getElementById("right").addEventListener("click", function(){
+                floatme.setAttribute("style", "float:right");
+        });
+	document.getElementById("none").addEventListener("click", function(){
+                floatme.setAttribute("style", "float:none");
+        });
+
+	var displayme = document.getElementsByClassName("mydisplay");
+	document.getElementById("block").addEventListener("click", function(){
+		for(var i = 0; i < displayme.length; i++){
+                	displayme[i].setAttribute("style", "display:block; width:50%");
+		}		
+        });
+
+        document.getElementById("inline").addEventListener("click", function(){
+                for(i = 0; i < displayme.length; i++){
+			displayme[i].setAttribute("style", "display:inline; width:75%");
+		}
+        });
+        document.getElementById("inlineblock").addEventListener("click", function(){
+		for(i = 0; i < displayme.length; i++){
+                	displayme[i].setAttribute("style", "display:inline-block; width:20%; vertical-align: top; margin-top:20px;");
+		}
+        });
+
+
+})();
+</script>
 </body>
 </html>
