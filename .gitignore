@@ -48,4 +48,4 @@ crashlytics.properties
 crashlytics-build.properties
 
 
-sandbox/craft/craft/config/db.php
+craft/craft/config/db.php
